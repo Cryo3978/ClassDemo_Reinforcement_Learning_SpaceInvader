@@ -3,4 +3,3 @@ pygame==2.1.0
 numpy==1.21.0
 stable-baselines3==1.7.0
 moviepy==1.0.3
-gymnasium==0.26.1  # Only if you are transitioning to Gymnasium, otherwise remove this
