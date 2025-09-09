@@ -1,8 +1,18 @@
-# ClassDemo_Reinforcement_Learning_SpaceInvader
-It's a game demo designed for teaching, by Shuheng Chen, USC
+# ClassDemo: Reinforcement Learning with Space Invaders
 
-Guidance:
+**Author:** Shuheng Chen, University of Southern California (USC)
 
-Run Space_Invaders_human.py for fun!
+This repository contains a demonstration of applying **Reinforcement Learning (RL)** to the classic arcade game *Space Invaders*. It is designed for educational purposes.
 
-Run main.py for RL training and evaluation!
+## Getting Started
+
+- **Play the Game (Human Mode):**  
+  Run `Space_Invaders_human.py` to play the game manually and explore its dynamics.
+
+- **Reinforcement Learning Training & Evaluation:**  
+  Run `main.py` to train RL agents and evaluate their performance.
+
+## Requirements
+
+Make sure you have the necessary Python packages installed, including `gym` and any dependencies required for RL training.
+
